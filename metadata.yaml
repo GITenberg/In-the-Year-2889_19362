@@ -1,0 +1,48 @@
+_repo: In-the-Year-2889_19362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+  - agent_name: Verne, Michel
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '8617'
+    url: http://www.gutenberg.org/2009/agents/8617
+    wikipedia: http://en.wikipedia.org/wiki/Michel_Verne
+description: The author of a number of genre-defining works of science fiction such
+  as Journey To The Center Of The Earth, Twenty Thousand Leagues Under The Sea, and
+  Around the World in Eighty Days, Jules Verne played a singularly important role
+  in creating and refining the field of fantasy literature. The short story "In the
+  Year 2889" finds Verne making a number of insightful and wildly imaginative guesses
+  about what daily life would be like in the future, several of which have already
+  come to pass.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2006-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19362'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PQ'
+- !lcsh 'Short stories'
+title: In the Year 2889
+url: http://www.gutenberg.org/ebooks/19362
