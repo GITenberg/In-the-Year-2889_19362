@@ -31,6 +31,8 @@ description: The author of a number of genre-defining works of science fiction s
   Year 2889" finds Verne making a number of insightful and wildly imaginative guesses
   about what daily life would be like in the future, several of which have already
   come to pass.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19362#In-the-Year-2889
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2006-09-23'
 gutenberg_type: Text
