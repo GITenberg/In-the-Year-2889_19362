@@ -1,3 +1,4 @@
+
 Project Gutenberg's In the Year 2889, by Jules Verne and Michel Verne
 
 This eBook is for the use of anyone anywhere at no cost and with
@@ -12,11 +13,10 @@ Author: Jules Verne and Michel Verne
 
 Release Date: January 2, 2007 [EBook #19362]
 [Original version posted on September 23, 2006]
-[Last updated: February 25, 2011]
+[Last updated: February 7, 2018]
 
 Language: English
 
-Character set encoding: ISO-8859-1
 
 *** START OF THIS PROJECT GUTENBERG EBOOK IN THE YEAR 2889 ***
 
@@ -30,16 +30,20 @@ Produced by Norm Wolcott
 
 
 
-
-
 IN THE YEAR 2889
 
+By Jules Verne and Michel Verne
+
+
+
 [Redactor's note: _In the Year 2889_ was first published in the
-_Forum_, February, 1889; p. 262. It was published in France the next
+_Forum_, February, 1889; p. 662. It was published in France the next
 year. Although published under the name of Jules Verne, it is now
 believed to be chiefly if not entirely the work of Jules' son, Michel
 Verne. In any event, many of the topics in the article echo Verne's
 ideas.]
+
+
 
 IN THE YEAR 2889.
 
@@ -105,7 +109,7 @@ Yes, all these wonders have been wrought by the accumulator and the
 transformer. And can we not to them also trace, indirectly, this latest
 wonder of all, the great "Earth Chronicle" building in 253d Avenue,
 which was dedicated the other day? If George Washington Smith, the
-founder of the Manhattan "Chronicle", should come back to life to-day,
+founder of the Manhattan "Chronicle," should come back to life to-day,
 what would he think were he to be told that this palace of marble and
 gold belongs to his remote descendant, Fritz Napoleon Smith, who, after
 thirty generations have come and gone, is owner of the same newspaper
@@ -135,10 +139,10 @@ of the day at any of the innumerable phonographs set up nearly
 everywhere.
 
 Fritz Napoleon Smith's innovation galvanized the old newspaper. In the
-course of a few years the number of subscribers grew to be 80,000,000,
+course of a few years the number of subscribers grew to be 85,000,000,
 and Smith's wealth went on growing, till now it reaches the almost
 unimaginable figure of $10,000,000,000. This lucky hit has enabled him
-to erect his new building, a vast edifice with four _façades_ each 3,250
+to erect his new building, a vast edifice with four _façades_, each 3,250
 feet in length, over which proudly floats the hundred-starred flag of
 the Union. Thanks to the same lucky hit, he is to-day king of
 newspaperdom; indeed, he would be king of all the Americans, too, if
@@ -189,7 +193,7 @@ that separated him from her. Mrs. Smith, weary after the ball or the
 visit to the theater the preceding night, is still abed, though it is
 near noontide at Paris. She is asleep, her head sunk in the lace-covered
 pillows. What? She stirs? Her lips move. She is dreaming perhaps? Yes,
-dreaming. She is talking, pronouncing a name his name--Fritz! The
+dreaming. She is talking, pronouncing a name--his name--Fritz! The
 delightful vision gave a happier turn to Mr. Smith's thoughts. And now,
 at the call of imperative duty, light-hearted he springs from his bed
 and enters his mechanical dresser.
@@ -262,9 +266,7 @@ yet play an important part in journalism.
 do not reach them."
 
 "That's bad," exclaimed Mr. Smith, as he hurried away, not in the best
-of humor, toward the hall of the scientific editors.
-
-With their heads bent down over their electric computers, thirty
+of humor, toward the hall of the scientific editors. With their heads bent down over their electric computers, thirty
 scientific men were absorbed in transcendental calculations. The coming
 of Mr. Smith was like the falling of a bomb among them.
 
@@ -273,7 +275,7 @@ always to be thus? Come, Cooley, you have been at work now twenty years
 on this problem, and yet--"
 
 "True enough," replied the man addressed. "Our science of optics is
-still very defective, and through our mile-and-three-quarter telescopes."
+still very defective, and through our mile-and-three-quarter telescopes--"
 
 "Listen to that, Peer," broke in Mr. Smith, turning to a second
 scientist. "Optical science defective! Optical science is your
@@ -287,7 +289,7 @@ is immeasurably less distant than Mars, yet with Mars our communication
 is fully established. I presume you will not say that you lack
 telescopes?"
 
-"Telescopes? O no, the trouble here is about inhabitants!"
+"Telescopes? O no, the trouble here is about--inhabitants!"
 
 "That's it," added Peer.
 
@@ -316,7 +318,7 @@ mean distance of 11,400,799,642 miles from the sun, and to traverse its
 vast orbit takes 1311 years, 294 days, 12 hours, 43 minutes, 9 seconds."
 
 "Why didn't you tell me that sooner?" cried Mr. Smith. "Now inform the
-reporters of this straightaway. You know how eager is the curiosity of
+reporters of this straightway. You know how eager is the curiosity of
 the public with regard to these astronomical questions. That news must
 go into to-day's issue."
 
@@ -349,7 +351,7 @@ advice from the all-powerful editor. A discussion was going on when he
 entered. "Your Excellency will pardon me," the French Ambassador was
 saying to the Russian, "but I see nothing in the map of Europe that
 requires change. 'The North for the Slavs?' Why, yes, of course; but the
-South for the Matins. Our common frontier, the Rhine, it seems to me,
+South for the Latins. Our common frontier, the Rhine, it seems to me,
 serves very well. Besides, my government, as you must know, will firmly
 oppose every movement, not only against Paris, our capital, or our two
 great prefectures, Rome and Madrid, but also against the kingdom of
@@ -362,7 +364,7 @@ empire, the most extensive in the world, stretching from the banks of
 the Rhine to the Celestial Mountains and the Kara-Korum, whose shores
 are washed by the Frozen Ocean, the Atlantic, the Mediterranean, and the
 Indian Ocean? Then, what is the use of threats? Is war possible in view
-of modern inventions-asphyxiating shells capable of being projected a
+of modern inventions--asphyxiating shells capable of being projected a
 distance of 60 miles, an electric spark of 90 miles, that can at one
 stroke annihilate a battalion; to say nothing of the plague, the
 cholera, the yellow fever, that the belligerents might spread among
@@ -427,10 +429,10 @@ of--"
 
 "Nothing?" asked Mr. Smith, laughing. "Well, now, there's Gibraltar!"
 
-With this sally, the audience ended. The clock was striking twelve, the
+With this sally the audience ended. The clock was striking twelve, the
 hour of breakfast. Mr. Smith returns to his chamber. Where the bed stood
 in the morning a table all spread comes up through the floor. For Mr.
-Smith, being above all a practical man; has reduced the problem of
+Smith, being above all a practical man, has reduced the problem of
 existence to its simplest terms. For him, instead of the endless suites
 of apartments of the olden time, one room fitted with ingenious
 mechanical contrivances is enough. Here he sleeps, takes his meals, in
@@ -440,7 +442,7 @@ He seats himself. In the mirror of the phonotelephote is seen the same
 chamber at Paris which appeared in it this morning. A table furnished
 forth is likewise in readiness here, for notwithstanding the difference
 of hours, Mr. Smith and his wife have arranged to take their meals
-simultaneously. It is delightful thus to take breakfast _tête-a-tête_
+simultaneously. It is delightful thus to take breakfast _tête-à-tête_
 with one who is 3000 miles or so away. Just now, Mrs. Smith's chamber
 has no occupant.
 
@@ -451,9 +453,9 @@ kitchen and is a subscriber to the Grand Alimentation Company, which
 sends through a great network of tubes to subscribers' residences all
 sorts of dishes, as a varied assortment is always in readiness. A
 subscription costs money, to be sure, but the _cuisine_ is of the best,
-and the system has this advantage, that it, does away with the pestering
+and the system has this advantage, that it does away with the pestering
 race of the _cordons-bleus_. Mr. Smith received and ate, all alone, the
-_hors-d'oeuvre, entrées, rôti_ and _legumes_ that constituted the
+_hors-d'oeuvre_, _entrées_, _rôti_, and _legumes_ that constituted the
 repast. He was just finishing the dessert when Mrs. Smith appeared in
 the mirror of the telephote.
 
@@ -562,9 +564,7 @@ after a time--resolved to subject the theory to a practical test. To
 this end, having first made his last will and pointed out the proper
 method of awakening him; having also directed that his sleep was to
 continue a hundred years to a day from the date of his apparent death,
-he unhesitatingly put the theory to the proof in his own person.
-
-Reduced to the condition of a mummy, Dr. Faithburn was coffined and laid
+he unhesitatingly put the theory to the proof in his own person. Reduced to the condition of a mummy, Dr. Faithburn was coffined and laid
 in a tomb. Time went on. September 25th, 2889, being the day set for his
 resurrection, it was proposed to Mr. Smith that he should permit the
 second part of the experiment to be performed at his residence this
@@ -603,7 +603,7 @@ about it."
 "In the meantime," said Mr. Smith, "you will dine with me."
 
 As in the morning, the table rose out of the floor. Again, as in the
-morning, the _potage, rôti, ragoûts_, and _legumes_ were supplied
+morning, the _potage_, _rôti_, _ragoûts_, and _legumes_ were supplied
 through the food-pipes. Toward the close of the meal, phonotelephotic
 communication was made with Paris. Smith saw his wife, seated alone at
 the dinner-table, looking anything but pleased at her loneliness.
@@ -687,10 +687,7 @@ is the history of 365 days every year, except leap-years, and then of
 366 days--for as yet no means has been found of increasing the length of
 the terrestrial year.
 
-JULES VERNE.
-
-
-
+Jules Verne.
 
 
 
@@ -1056,3 +1053,4 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
+
